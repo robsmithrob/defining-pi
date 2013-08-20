@@ -1,0 +1,10 @@
+10.times do
+play 45
+  sleep 0.2 
+  play 50
+  
+  sleep 0.2
+  play 60
+  sleep 0.2
+  play 60
+end
