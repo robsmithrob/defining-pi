@@ -6,3 +6,5 @@ Can we encode images to audio? Can we send it out as sound? Can we turn it into 
 
 
 testing
+
+Now I am adding some stuff.... improving my code
